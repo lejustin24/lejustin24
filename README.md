@@ -2,9 +2,11 @@
 
 I'm an AI systems @EPITA PARIS (https://www.epita.fr/) student with a passion for machine learning, natural language processing, and computer vision. I love exploring new AI techniques and applying them to solve real-world problems. 
 
+<!---
 ## 🔭 I'm currently working on
 
 - Nothing for now!
+-->
 
 ## 🌱 I'm currently learning
 
@@ -13,7 +15,7 @@ I'm an AI systems @EPITA PARIS (https://www.epita.fr/) student with a passion fo
 
 ## 📫 How to reach me
 
-- LinkedIn (https://www.linkedin.com/in/justin-amine/)
+- [LinkedIn](https://www.linkedin.com/in/justin-amine/)
 - Email: justinamine24@outlook.com
 
 ## 🤖 Fun fact
