@@ -31,12 +31,13 @@ I haven't posted on github too much yet, but things are coming!
 ## 🗝️ Skills
 [![C/C++](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)]()
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)]()
-[![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)]()
+[![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java-ED8B00&logoColor=white&color=2bbc8a)]()
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)]()
 [![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)]()
 [![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)]()
 [![Pawn](https://img.shields.io/badge/Code-Pawn-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
-[![SQL/PostgreSQL](https://img.shields.io/badge/Tool-SQL/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)]()
+[![PostgreSQL](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)]()
+[![SQL](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)]()
 [![Node.js](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)]()
 [![Numpy](https://img.shields.io/badge/Tool-Numpy-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
 [![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
@@ -46,5 +47,6 @@ I haven't posted on github too much yet, but things are coming!
 [![PyTorch](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)]()
 [![Conda](https://img.shields.io/badge/Tool-Conda-informational?style=flat&logo=Conda-Forge&logoColor=white&color=2bbc8a)]()
 [![Orange Data Mining](https://img.shields.io/badge/Tool-Orange%20Data%20Mining-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
+[![Jupyter NB](https://img.shields.io/badge/Tool-Jupyter%20Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)]()
 
 Thanks for stopping by, feel free to explore my repositories and get in touch!
