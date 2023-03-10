@@ -28,7 +28,7 @@ I haven't posted on github too much yet, but things are coming!
 <br>
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lejustin24&show_icons=true&theme=dark)]
 
-## Skills
+## 🗝️ Skills
 [![C/C++](https://img.shields.io/badge/C/C++-Advanced-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)]()
 [![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)]()
 [![Java](https://img.shields.io/badge/Java-Intermediate-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)]()
