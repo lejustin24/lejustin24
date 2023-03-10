@@ -39,7 +39,7 @@ I haven't posted on github too much yet, but things are coming!
 [![PostgreSQL](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)]()
 [![SQL](https://img.shields.io/badge/Tool-SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)]()
 [![Node.js](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)]()
-[![Numpy](https://img.shields.io/badge/Tool-Numpy-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.1-blue.svg?logo=numpy)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
 [![Pandas](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
 [![Keras](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)]()
