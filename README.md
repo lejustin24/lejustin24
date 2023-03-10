@@ -42,7 +42,7 @@ I haven't posted on github too much yet, but things are coming!
 [![NumPy](https://img.shields.io/badge/Tool-NumPy-blue.svg?logo=numpy)]()
 [![Matplotlib](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)]()
 [![Pandas](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&Color=white&color=2bbc8a)]()
-[![Keras](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=Keras&logo&Color=white&color=2bbc8a)]()
+[![Keras](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logo&Color=white&color=2bbc8a)]()
 [![TensorFlow](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)]()
 [![PyTorch](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)]()
 [![Conda](https://img.shields.io/badge/Tool-Conda-informational?style=flat&logo=Conda-Forge&logoColor=white&color=2bbc8a)]()
