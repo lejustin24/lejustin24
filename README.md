@@ -1,7 +1,5 @@
 ![Header](./github-hbg.png)
 
-<img src="https://komarev.com/ghpvc/?username=lejustin24&label=Profile%20views&color=0e75b6&style=flat" alt="lejustin24" />
-
 I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passion for machine learning, natural language processing, and computer vision. I love exploring new AI techniques and applying them to solve real-world problems. 
 
 <!---
