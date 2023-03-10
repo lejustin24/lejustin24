@@ -26,7 +26,7 @@ My passion for AI was built through my love for video games. I was always fascin
 
 I haven't posted on github too much yet, but things are coming!
 <br>
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lejustin24&show_icons=true&theme=dark)]
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=lejustin24&show_icons=true&theme=dark)
 
 ## 🗝️ Skills
 [![C/C++](https://img.shields.io/badge/C/C++-Advanced-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)]()
