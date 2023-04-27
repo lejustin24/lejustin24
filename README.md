@@ -1,6 +1,6 @@
 ![Header](./github-hbg.png)
 
-I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passion for machine learning, natural language processing, and computer vision. I love exploring new AI techniques and applying them to solve real-world problems. 
+I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passion for data science, machine learning, natural language processing, and computer vision. I love exploring new AI techniques and applying them to solve real-world problems. 
 
 <!---
 ## 🔭 I'm currently working on
