@@ -8,15 +8,27 @@ I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passio
 - Nothing for now!
 -->
 
-## 🌱 I'm currently learning
+## 🌱 My favorite courses of my MSc in AI
 
-- (put the courses im taking rn).
+- Operations Research: Linear programming & Optimization for Data Science
+- Numerical & Advanced Algorithms
+- Machine Learning: Statistical ML & Unsupervised Methods
+- Neural Networks & Deep Learning
+- Data Exploration & Preparation
+- Recommender System
+- Natural Language Processing
+- AI in Signal & Audio Processing
+- AI in Image and Video Processing
+- Reinforcement Learning
+- Relational DBs & NoSQL DBs
+- Data Science in Production
+- Knowledge representation and AI History
 - Cloud computing platforms for AI (AWS).
 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/justin-amine/)
-- Email: justinamine24@outlook.com
+- and by mail: justinamine24@outlook.com
 
 ## 🤖 Fun fact
 
