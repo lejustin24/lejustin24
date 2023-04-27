@@ -8,7 +8,7 @@ I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passio
 - Nothing for now!
 -->
 
-## 🌱 My favorite courses of my MSc in AI
+## 🌱 Some of the most important courses of my MSc in AI
 
 - Operations Research: Linear programming & Optimization for Data Science
 - Numerical & Advanced Algorithms
