@@ -58,4 +58,4 @@ I haven't posted on github too much yet, but things are coming!
 [![Datamining](https://img.shields.io/badge/Tool-Datamining-informational?style=flat&logo=&logoColor=white&color=2bbc8a)]()
 [![Linux](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)]()
 
-Thanks for stopping by, feel free to explore my repositories and get in touch!
+Thanks for stopping by, feel free to explore my repositories (that I am posting/making public very soon) and get in touch!
