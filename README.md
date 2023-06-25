@@ -32,7 +32,7 @@ I'm a MSc AI systems student [@EPITA PARIS](https://www.epita.fr/) with a passio
 
 ## 🤖 Fun fact
 
-My passion for AI was built through my love for video games. I was always fascinated by how intelligent the non-player characters seemed, and eventually learned that their behavior was being controlled by AI algorithms.
+My passion for AI was built through my love for video games. I was always fascinated by how intelligent the non-player characters seemed, and eventually learned that their behavior was being controlled by AI algorithms. I was also continually astounded by how machine learning could anticipate the progression of cancer, and eventually discovered that this remarkable predictive power was driven by AI algorithms
 
 ## 📊 GitHub Stats
 
