@@ -14,18 +14,13 @@ I work in the Electronics Engineering department at the Civil Aviation Authority
 
 - Operations Research: Linear programming & Optimization for Data Science
 - Numerical & Advanced Algorithms
-- Machine Learning: Statistical ML & Unsupervised Methods
-- Neural Networks & Deep Learning
-- Data Exploration & Preparation
-- Recommender System
 - Natural Language Processing
 - AI in Signal & Audio Processing
 - AI in Image and Video Processing
 - Reinforcement Learning
-- Relational DBs & NoSQL DBs
 - Data Science in Production
 - Knowledge representation and AI History
-- Cloud computing platforms for AI (AWS).
+- Cloud computing platforms for AI (AWS)
 
 ## 🤖 Fun fact
 
