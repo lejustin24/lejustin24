@@ -8,7 +8,7 @@ I work in the Electronics Engineering department at the Civil Aviation Authority
 
 - Graduated MSc in AI Systems [@EPITA PARIS](https://www.epita.fr/) with a BSc in Computer Science.
 - Passionate about applying AI and various IT solutions to real-world challenges, particularly in aviation and public safety.
-- I am **{{AGE}}** years old.
+- I am **24** years old.
 
 ## 🌱 Some of the most important courses of my MSc in AI
 
