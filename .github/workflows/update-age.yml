@@ -32,3 +32,4 @@ jobs:
           git add README.md
           git commit -m "Automatic Update age in README" || echo "No changes to commit" # Skip commit if no changes
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+echo "Calculated age: $AGE"
